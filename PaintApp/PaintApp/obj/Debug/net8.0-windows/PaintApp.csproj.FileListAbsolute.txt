@@ -1,0 +1,34 @@
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.exe
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.deps.json
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.dll
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.pdb
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Form1.resources
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.GenerateResource.cache
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.dll
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\refint\PaintApp.dll
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.pdb
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\ref\PaintApp.dll
+D:\studia\drugi rok\semestr II\probiekt\ZALICZENIE\PROJEKT\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Properties.Resources.resources
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.exe
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.deps.json
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.runtimeconfig.json
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.dll
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.pdb
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Form1.resources
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Properties.Resources.resources
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.GenerateResource.cache
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfoInputs.cache
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfo.cs
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.dll
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\refint\PaintApp.dll
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.pdb
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.genruntimeconfig.cache
+D:\!MOJE projekty na GITHUB\paint\PaintApp\PaintApp\obj\Debug\net8.0-windows\ref\PaintApp.dll
